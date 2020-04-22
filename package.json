@@ -1,7 +1,7 @@
 {
   "name": "@piratuks/eslint-config-code-style",
   "description": "Preferred ESLint Shareable Config",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "author": {
     "name": "Evaldas Laureckas",
     "email": "evaldas.laureckas@gmail.com"
@@ -24,7 +24,12 @@
   },
   "homepage": "https://github.com/piratuks/eslint-config-code-style",
   "keywords": [
-    "eslint rules"
+    "eslint rules",
+    "eslint",
+    "rules",
+    "shareable config",
+    "shareable ",
+    "config"
   ],
   "license": "MIT",
   "main": "index.js",
